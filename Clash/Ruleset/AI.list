@@ -13,6 +13,8 @@ DOMAIN,api.together.xyz
 DOMAIN,bard.google.com
 DOMAIN,console.groq.com
 DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,cloudcode-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN,gemini.google.com
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,notebooklm.google.com
