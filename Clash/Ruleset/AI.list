@@ -13,6 +13,8 @@ DOMAIN,api.together.xyz
 DOMAIN,bard.google.com
 DOMAIN,console.groq.com
 DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,aida.googleapis.com
+DOMAIN,cloudaicompanion.googleapis.com
 DOMAIN,cloudcode-pa.googleapis.com
 DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN,gemini.google.com
@@ -21,6 +23,8 @@ DOMAIN,notebooklm.google.com
 DOMAIN,proactivebackend-pa.googleapis.com
 DOMAIN,sydney.bing.com
 DOMAIN-SUFFIX,ai.azure.com
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,bard.google.com
