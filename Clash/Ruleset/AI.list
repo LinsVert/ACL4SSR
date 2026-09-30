@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,alkalimakersuite-pa
 DOMAIN-KEYWORD,antigravity
+DOMAIN,accounts.google.com
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,api.githubcopilot.com
@@ -25,6 +26,8 @@ DOMAIN,sydney.bing.com
 DOMAIN-SUFFIX,ai.azure.com
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,google.dev
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,bard.google.com
